@@ -1,0 +1,27 @@
+.Header1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+
+}
+
+.Header-logo {
+    display: block;
+    height: 100;
+    width: 85;
+    z-index: 20;
+    position:fixed;
+}
+
+.Btn-menu {
+width: 100%;
+  position:fixed;
+  z-index: 50;
+}
+.Btn {
+  float: right;
+}
+/*.Header-video{
+  display: block;
+
+}*/
